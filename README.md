@@ -1,5 +1,8 @@
 ### Hi there 👋
+At the moment I am working in the Data Analysis field, commiting to it has been quite a journey as
+I have been learning it on my own. I hope my site helps you find motivation and projects to analize.
 
+📫 How to reach me: [danielryvero@gmail.com](mailto:danielryvero@gmail.com)
 <!--
 **danielryvero/danielryvero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
