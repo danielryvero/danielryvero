@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, my name is Daniel Rivero!
 At the moment I am working in the Data Analysis field, commiting to it has been quite a journey as
 I have been learning it on my own. I hope my site helps you find motivation and projects to analize.
 
