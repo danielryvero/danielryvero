@@ -2,7 +2,7 @@
 At the moment I am working in the Data Analysis field, commiting to it has been quite a journey as
 I have been learning it on my own. I hope my site helps you find motivation and projects to analize.
 
-<i class="fab fa-github"></i> This is my personal Portfolio for Data Analysis: 
+<i class="fab fa-github"></i> My personal Portfolio for Data Analysis: 
 [danielryveroanalytics.github.io](https://danielryvero.github.io/danielryveroanalytics.github.io/)
 
 📫 How to reach me: [danielryvero@gmail.com](mailto:danielryvero@gmail.com)
