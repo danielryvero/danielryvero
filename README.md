@@ -18,6 +18,7 @@ I hope my site helps you find motivation and projects to analyze.
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+[![Streamlit](https://img.shields.io/badge/Streamlit-gray?style=for-the-badge&logo=streamlit&logoColor=red)](https://streamlit.io)
 
 
 🔄 ETL / Orchestration / Modeling
