@@ -5,8 +5,8 @@ At the moment I am working in the **Analytics Engineering** field.
 Committing to it has been quite a journey, as I’ve been learning it on my own.  
 I hope my site helps you find motivation and projects to analyze.
 
-🌐 **My personal Portfolio for Data Analysis:**  
-[danielryveroanalytics.github.io/analytics_portfolio](https://danielryvero.github.io/analytics_portfolio/)
+🌐 **My personal Portfolio for Data Analytics:**  
+[danielryvero.github.io/analytics_portfolio](https://danielryvero.github.io/analytics_portfolio/)
 
 ---
 
